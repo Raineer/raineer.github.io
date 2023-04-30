@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="http://raineer.github.io/xml/base.min.xml" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Michael Miller</title>
+    <title>Raineer</title>
     <link>http://raineer.github.io/</link>
-    <description>Recent content on Michael Miller</description>
+    <description>Recent content on Raineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 29 Apr 2023 22:23:41 -0600</lastBuildDate>
