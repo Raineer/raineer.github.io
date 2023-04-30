@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<?xml-stylesheet type="text/xsl" href="http://raineer.github.io/xml/base.min.xml" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Raineer</title>
@@ -7,18 +6,15 @@
     <description>Recent content on Raineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Apr 2023 22:23:41 -0600</lastBuildDate>
-    <atom:link href="http://raineer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Apr 2023 22:23:41 -0600</lastBuildDate><atom:link href="http://raineer.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Michael&#39;s attempt at a first post</title>
       <link>http://raineer.github.io/posts/my-first-post/</link>
       <pubDate>Sat, 29 Apr 2023 22:23:41 -0600</pubDate>
+      
       <guid>http://raineer.github.io/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;http://raineer.github.io/posts/my-first-post/#introduction&#34;&gt;Introduction&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;Hi, this is &lt;strong&gt;Michael Miller&lt;/strong&gt;, it is &lt;em&gt;very&lt;/em&gt; nice to welcome you to my site.&lt;/p&gt;
-</description>
+      <description>Introduction Hi, this is Michael Miller, it is very nice to welcome you to my site.</description>
     </item>
+    
   </channel>
 </rss>
